@@ -6,7 +6,7 @@
 
 ## Hi there 👋,
 
-### I am Lorenzo, you can call me Kris or Rin. I am 16 years old and i love programming in C and C#. I am an Exiled plugin developer. Currently learing C++ and python.
+### Hi, I am Lorenzo I am 16 and you can call me Kris or Rin. I am an italian developer who loves programming in C and C#. I am an Exiled plugin developer. Currently learing C++ and python.
 -------
   
 ## 🧐 About
