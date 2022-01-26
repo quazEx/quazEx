@@ -6,14 +6,16 @@
 
 ## Hi there 👋,
 
-### I am Lorenzo, you can call me Kris or Rin. I am 16 years old and i love programming in C and C#. I am an Exiled plugin developer Currently learing C++ and python.
+### I am Lorenzo, you can call me Kris or Rin. I am 16 years old and i love programming in C and C#. I am an Exiled plugin developer. Currently learing C++ and python.
 -------
   
 ## 🧐 About
 
 - 🏄‍ I love help and get helped by the community
+- 🔦 I am the owner of Lights Out Studios [Discord Invite Here](https://discord.gg/xKpNMtRMs9)
+- 😊 Very friendly person, if you need help or something contact me!!
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Contact me!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/3755358450)
