@@ -20,4 +20,4 @@
 - 💬 Message me at [Whatsapp](https://wa.me/3755358450)
 - 😉 Contact me on discord: **Rin#1001**
 
-![quazEx's stats](https://github-readme-stats.vercel.app/api?username=quazEx&show_icons=true)
+![quazEx's stats](https://github-readme-stats.vercel.app/api?username=quazx&show_icons=true)
