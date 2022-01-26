@@ -17,8 +17,7 @@
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Contact me!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/3755358450)
-
+- 💬 Message me at [Whatsapp](https://wa.me/3755358450)
+- 😉 Contact me on discord: **Rin#1001**
 
 ![quazEx's stats](https://github-readme-stats.vercel.app/api?username=quazEx&show_icons=true)
